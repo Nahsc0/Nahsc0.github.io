@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nahsc0.github.io/academic/sitemap.xml
